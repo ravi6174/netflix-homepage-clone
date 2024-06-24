@@ -1,0 +1,27 @@
+a{
+    color: rgb(190, 189, 189);
+    margin: 10px;
+    display: block;
+}
+.links{
+    justify-content: space-between;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 5vh !important;
+
+}
+.footer-div{
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+.list{
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+}
+.list1{
+    margin-left: 20%;
+}
+.list3{
+    margin-right: 20%;
+}

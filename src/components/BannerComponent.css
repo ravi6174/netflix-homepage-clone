@@ -1,0 +1,35 @@
+.Banner-img{
+    height: 40vh;
+    width: 30vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-radius: 15px;
+
+}
+
+.description p{
+    width: 60%;
+    text-align: center;
+}
+.Banner-component{
+    color: white;
+    margin-top: 15vh;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Banner{
+    justify-content: space-between;
+    margin: auto;
+}
+
+
+h2{
+    margin-left: 8vw;
+    margin-right: 8vw; 
+}

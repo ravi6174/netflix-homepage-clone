@@ -1,0 +1,64 @@
+.Faqcomponent p{
+    color: White;
+    font-size: 30px;
+    font-weight: 800;
+}
+.far{
+    text-align: center;
+}
+
+.Faqcomponent p{
+    text-align: center;
+
+}
+.Faqcomponent{
+    margin-top: 20vh;
+    flex-direction: column;
+    width: 70vw;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15vh;
+
+}
+
+.accordion-button{
+    text-align: center;
+    width: 100% !important;
+}
+
+#accordionExample{
+    margin-top: 5vh;
+}
+
+.accordion-h2{
+    color: aliceblue !important;
+    width: 100% !important;
+    
+}
+
+.accordion-body{
+    color: aliceblue !important;
+    background-color: rgb(49, 49, 49);
+    border: none !important;
+}
+
+.accordion-header{
+    text-align: center !important;
+   
+}
+.accordion-h2:onClick(){
+    border: none !important;
+}
+.accordion-button{
+    display:block;
+    background-color: rgb(75, 75, 75) !important;
+    border: none !important;
+    width: 100% !important;
+
+}
+
+.accordion-item{
+    border: none;
+    background-color: rgb(75, 75, 75) !important;
+}
